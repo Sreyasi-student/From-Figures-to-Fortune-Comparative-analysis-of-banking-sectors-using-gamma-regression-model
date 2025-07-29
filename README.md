@@ -1,1 +1,3 @@
 # From-Figures-to-Fortune-Comparative-analysis-of-banking-sectors-using-gamma-regression-model
+
+The financial sector plays a critical role in the global economy, serving as the backbone for economic growth and development. Banks are a vital part of this sector as they manage vast amounts of capital and provide essential services such as giving loans, investments, and risk management. This project aims to analyse financial data from Indian banks to uncover patterns, trends, and relationships that impact their profitability, stability, and growth. Through statistical analysis, we want to have a comprehensive understanding of the banking industry's current scenario and offer valuable insights for the improvement and betterment of the industry.
